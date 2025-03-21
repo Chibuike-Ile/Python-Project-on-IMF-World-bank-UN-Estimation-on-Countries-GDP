@@ -9,7 +9,7 @@ This project will help countries assess if their GDP exceeds or falls short of t
 
 Dataset Soruce: Kaggle
 
-[Download Dataset]([https://www.kaggle.com/datasets/rajkumarpandey02/gdp-in-usd-per-capita-income-by-country.](https://www.kaggle.com/datasets/rajkumarpandey02/gdp-in-usd-per-capita-income-by-country))
+[Download Dataset](https://www.kaggle.com/datasets/rajkumarpandey02/gdp-in-usd-per-capita-income-by-country)
 
 **The stages of the analysis are listed below.**
 
