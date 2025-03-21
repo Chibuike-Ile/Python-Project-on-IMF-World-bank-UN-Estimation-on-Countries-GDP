@@ -92,7 +92,7 @@ For the CSV file [Click here](https://github.com/Chibuike-Ile/Python-Project-on-
 
 ![Image 33](https://github.com/user-attachments/assets/9fdfff16-923e-4a74-a6d5-664080f79e84)
 
-**For all the analysis [Click here]()
+**For all the analysis [Click here](https://github.com/Chibuike-Ile/Python-Project-on-IMF-World-bank-UN-Estimation-on-Countries-GDP/blob/main/All%20the%20Analysis%20done%20on%20this%20project.pdf)
 
 
 
